@@ -1,0 +1,9 @@
+C:\Users\yneve\Documents\Visual Studio 2015\Projects\FileServer\FileServer.DataAccess\bin\Release\FileServer.DataAccess.exe.config
+C:\Users\yneve\Documents\Visual Studio 2015\Projects\FileServer\FileServer.DataAccess\bin\Release\FileServer.DataAccess.exe
+C:\Users\yneve\Documents\Visual Studio 2015\Projects\FileServer\FileServer.DataAccess\bin\Release\FileServer.DataAccess.pdb
+C:\Users\yneve\Documents\Visual Studio 2015\Projects\FileServer\FileServer.DataAccess\bin\Release\EntityFramework.dll
+C:\Users\yneve\Documents\Visual Studio 2015\Projects\FileServer\FileServer.DataAccess\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\yneve\Documents\Visual Studio 2015\Projects\FileServer\FileServer.DataAccess\bin\Release\EntityFramework.xml
+C:\Users\yneve\Documents\Visual Studio 2015\Projects\FileServer\FileServer.DataAccess\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\yneve\Documents\Visual Studio 2015\Projects\FileServer\FileServer.DataAccess\obj\Release\FileServer.DataAccess.exe
+C:\Users\yneve\Documents\Visual Studio 2015\Projects\FileServer\FileServer.DataAccess\obj\Release\FileServer.DataAccess.pdb

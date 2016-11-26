@@ -1,0 +1,5 @@
+C:\Users\yneve\Documents\Visual Studio 2015\Projects\FileServer\FileServer.Common\bin\Debug\FileServer.Common.dll.config
+C:\Users\yneve\Documents\Visual Studio 2015\Projects\FileServer\FileServer.Common\bin\Debug\FileServer.Common.dll
+C:\Users\yneve\Documents\Visual Studio 2015\Projects\FileServer\FileServer.Common\bin\Debug\FileServer.Common.pdb
+C:\Users\yneve\Documents\Visual Studio 2015\Projects\FileServer\FileServer.Common\obj\Debug\FileServer.Common.dll
+C:\Users\yneve\Documents\Visual Studio 2015\Projects\FileServer\FileServer.Common\obj\Debug\FileServer.Common.pdb

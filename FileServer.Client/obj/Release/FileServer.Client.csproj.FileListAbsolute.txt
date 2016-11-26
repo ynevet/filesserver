@@ -1,0 +1,4 @@
+C:\Users\yneve\Documents\Visual Studio 2015\Projects\FileServer\FileServer.Client\bin\Release\FileServer.Client.dll
+C:\Users\yneve\Documents\Visual Studio 2015\Projects\FileServer\FileServer.Client\bin\Release\FileServer.Client.pdb
+C:\Users\yneve\Documents\Visual Studio 2015\Projects\FileServer\FileServer.Client\obj\Release\FileServer.Client.dll
+C:\Users\yneve\Documents\Visual Studio 2015\Projects\FileServer\FileServer.Client\obj\Release\FileServer.Client.pdb
